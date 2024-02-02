@@ -16,9 +16,29 @@ Feel free to browse the repository to find lecture notes, tutorials, and study g
 
 We welcome contributions from educators, students, and professionals! If you have resources, tutorials, or notes that can help others learn, please consider sharing them here. Check out our contributing guidelines for more information.
 
-## Contact
-
-For questions, suggestions, or collaboration offers, please contact us via [GitHub](link-to-your-github-profile) or email us at artificial@intelligence.com.
 
 Thank you for visiting our project, and happy learning!
+
+===================================================================
+
+# Artificial iNtelligence - الموارد التعليمية
+
+مرحباً بكم في مستودع GitHub الخاص بـ Artificial iNtelligence! هذا المشروع مخصص لتوفير محتوى تعليمي واضح، مختصر وسهل الوصول إليه مركزًا على علوم الحاسوب والهندسة، مع التركيز بشكل خاص على الذكاء الاصطناعي (AI). هدفنا هو جعل تعلم الذكاء الاصطناعي والمواضيع ذات الصلة أسهل للجميع.
+
+## ما نقدمه
+
+- **شرح المحاضرات:** شروحات مبسطة للمواضيع المعقدة في علوم الحاسوب والذكاء الاصطناعي.
+- **الدروس التعليمية:** أدلة خطوة بخطوة لمختلف المقررات ضمن كلية علوم الحاسوب والهندسة.
+- **موارد الدراسة:** مواد إضافية لدعم عملية التعلم الخاصة بك.
+
+## كيفية الاستخدام
+
+لا تتردد في تصفح المستودع للعثور على ملاحظات المحاضرات، الدروس التعليمية، وأدلة الدراسة. كل مجلد منظم حسب موضوع المقرر، مما يجعل من السهل العثور على ما تحتاجه.
+
+## المساهمة
+
+نرحب بمساهمات من المعلمين، الطلاب، والمحترفين! إذا كان لديك موارد، دروس تعليمية، أو ملاحظات يمكن أن تساعد الآخرين في التعلم، يرجى النظر في مشاركتها هنا. تحقق من إرشادات المساهمة لدينا لمزيد من المعلومات.
+
+
+شكراً لزيارة مشروعنا، ونتمنى لكم تعلمًا ممتعًا!
 
